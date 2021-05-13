@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.exe
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.deps.json
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.json
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.runtimeconfig.dev.json
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.dll
+F:\GrandCircus\C#\ATMLab\ATMLab\bin\Debug\netcoreapp3.1\ATMLab.pdb
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csprojAssemblyReference.cache
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.AssemblyInfo.cs
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.dll
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.pdb
+F:\GrandCircus\C#\ATMLab\ATMLab\obj\Debug\netcoreapp3.1\ATMLab.genruntimeconfig.cache
